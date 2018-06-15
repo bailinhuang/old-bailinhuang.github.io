@@ -5,9 +5,6 @@
 ## Preview
 ![screenshot 51](https://user-images.githubusercontent.com/24628727/41493404-37ada2ae-70c4-11e8-83ef-9003fc812583.png)
 
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
-
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-stylish-portfolio/master/LICENSE)
