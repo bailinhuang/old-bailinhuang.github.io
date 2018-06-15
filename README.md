@@ -3,8 +3,8 @@
 [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
 ## Preview
+![screenshot 51](https://user-images.githubusercontent.com/24628727/41493404-37ada2ae-70c4-11e8-83ef-9003fc812583.png)
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
 
