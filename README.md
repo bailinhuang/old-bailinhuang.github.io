@@ -3,6 +3,7 @@ Using [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-p
 
 ## Preview
 ![screenshot 51](https://user-images.githubusercontent.com/24628727/41493404-37ada2ae-70c4-11e8-83ef-9003fc812583.png)
+![screenshot 52](https://user-images.githubusercontent.com/24628727/41493465-ca0ac802-70c4-11e8-8873-db0a20172b88.png)
 
 ## Status
 
